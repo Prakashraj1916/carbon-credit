@@ -1,0 +1,7 @@
+Feature,Importance
+CO2_Lag_2,0.36529663
+CO2_Lag_1,0.27958125
+Year,0.2693579
+CO2_Rolling_Mean_3,0.045203317
+CO2_Rolling_Mean_5,0.038749125
+CO2_Lag_3,0.0018117712
